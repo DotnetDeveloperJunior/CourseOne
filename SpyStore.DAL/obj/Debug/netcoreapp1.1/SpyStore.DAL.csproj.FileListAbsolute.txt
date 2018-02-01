@@ -1,0 +1,6 @@
+C:\GitHub\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.deps.json
+C:\GitHub\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.json
+C:\GitHub\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.dev.json
+C:\GitHub\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
+C:\GitHub\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csprojResolveAssemblyReference.cache
+C:\GitHub\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfo.cs
