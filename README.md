@@ -1,2 +1,2 @@
 # CourseOne
-First course in learning .NET Core
+First course in learning .NET Core.
