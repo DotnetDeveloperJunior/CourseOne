@@ -6,7 +6,6 @@ namespace SpyStore.DAL
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
