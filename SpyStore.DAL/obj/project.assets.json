@@ -8174,10 +8174,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\SpyStore.DAL\\SpyStore.DAL\\SpyStore.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.DAL\\SpyStore.DAL.csproj",
       "projectName": "SpyStore.DAL",
-      "projectPath": "C:\\GitHub\\SpyStore.DAL\\SpyStore.DAL\\SpyStore.DAL.csproj",
-      "outputPath": "C:\\GitHub\\SpyStore.DAL\\SpyStore.DAL\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.DAL\\SpyStore.DAL.csproj",
+      "outputPath": "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8185,8 +8185,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\GitHub\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj": {
-              "projectPath": "C:\\GitHub\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj"
+            "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj"
             }
           }
         }

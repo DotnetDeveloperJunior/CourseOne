@@ -7733,10 +7733,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj",
       "projectName": "SpyStore.Models",
-      "projectPath": "C:\\GitHub\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj",
-      "outputPath": "C:\\GitHub\\SpyStore.DAL\\SpyStore.Models\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.Models\\SpyStore.Models.csproj",
+      "outputPath": "C:\\Users\\Administrator\\dotnet\\SpyStore.DAL\\SpyStore.Models\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
